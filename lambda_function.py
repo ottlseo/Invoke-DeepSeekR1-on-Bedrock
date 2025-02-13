@@ -32,3 +32,5 @@ def lambda_handler(event, context):
     }
     
     return response
+
+### How do I test it? : Enter your data in the following format { 'prompt': "I have 20 apples now. I gave two of them to my friend. How many apples do I have now?" } 
